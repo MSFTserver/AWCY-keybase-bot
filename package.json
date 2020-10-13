@@ -1,0 +1,22 @@
+{
+  "name": "awcy-keybase-bot",
+  "version": "1.0.0",
+  "description": "keybase bot for the AWCY? group",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSFTserver/AWCY-keybase-bot.git"
+  },
+  "author": "MSFTserver",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MSFTserver/AWCY-keybase-bot/issues"
+  },
+  "homepage": "https://github.com/MSFTserver/AWCY-keybase-bot#readme",
+  "dependencies": {
+    "keybase-bot": "^3.6.1"
+  }
+}
